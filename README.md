@@ -3,7 +3,7 @@
 Welcome to my personal **Data Science Portfolio** 
 ## 🔍 About Me
 
-Hi, I'm [Your Name], a data scientist with experience in:
+Hi, I'm Sneha, a data scientist with experience in:
 - 🧠 Machine Learning & Deep Learning
 - 📈 Data Visualization & Storytelling
 - 🧹 Data Wrangling & Cleaning
