@@ -1,4 +1,5 @@
-# Sneha Wandhare
+# Sneha Wandhare 
+## Data Scientist Portfolio
 
 📍 Pune, India  
 📧 [snehawandhare06@gmail.com](mailto:snehawandhare06@gmail.com)  
@@ -38,6 +39,7 @@
 - **GenAI/LLMs:** OpenAI GPT-4o, Claude 3.5, Prompt Engineering  
 - **Frameworks:** FastAPI, Flask  
 - **Cloud & Tools:** Azure, AWS, Kubernetes, Git
+- **Databricks:** Pyspark
 
 ---
 
