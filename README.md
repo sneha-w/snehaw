@@ -18,7 +18,7 @@
 ## 💼 Work Experience
 
 ### 🔹 WNS Global Services Pvt. Ltd — *Senior Analyst, Data Sciences*  
-📍 Bangalore | 🗓️ Jan 2022 – Present  
+📍 Bangalore - Remote | 🗓️ Jan 2022 – Present  
 - Built GenAI-based document extraction from 200+ PDF formats using Claude and Bedrock.
 - Designed prompt workflows to ensure tone, safety, and accuracy alignment.
 - Deployed FastAPI services and scheduled cron jobs for backend orchestration.
